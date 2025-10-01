@@ -1,0 +1,16 @@
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\controller\AdminController.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\controller\AuthController.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\controller\TaskController.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\exception\GlobalExceptionHandler.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\model\Role.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\model\Task.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\model\User.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\repository\TaskRepository.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\repository\UserRepository.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\security\JwtFilter.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\security\JwtService.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\security\SecurityConfig.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\security\UserDetailsServiceImpl.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\service\TaskService.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\service\TaskServiceImpl.java
+C:\Users\farns\OneDrive\Desktop\TaskManager\taskmanager\src\main\java\com\IvanAndonov1\taskmanager\TaskmanagerApplication.java
