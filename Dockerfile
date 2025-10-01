@@ -1,14 +1,11 @@
-# Use OpenJDK 17 as the base image
+# Use lightweight Java runtime
 FROM openjdk:17-jdk-slim
 
-# Set the working directory inside the container
+# Set working dir
 WORKDIR /app
 
-# Copy the Maven build output (the JAR file)
+# Copy jar from target folder
 COPY target/taskmanager-0.0.1-SNAPSHOT.jar app.jar
 
-# Expose port 8080
-EXPOSE 8080
-
-# Run the JAR file
+# Run the jar
 ENTRYPOINT ["java", "-jar", "app.jar"]
