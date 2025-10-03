@@ -1,0 +1,22 @@
+# Maven target folder (compiled stuff)
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# Git
+.git
+.gitignore
+
+# Docker itself
+Dockerfile
+docker-compose.yml
